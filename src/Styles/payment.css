@@ -1,0 +1,21 @@
+.payment-complete {
+    max-width: 600px;
+    margin: 0 auto;
+    margin-top: 10rem;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    text-align: center;
+    background-color: #f9f9f9;
+  }
+  
+  .payment-complete h1 {
+    font-size: 32px;
+    margin-bottom: 16px;
+  }
+  
+  .payment-complete p {
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+  

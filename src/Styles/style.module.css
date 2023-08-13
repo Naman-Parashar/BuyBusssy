@@ -1,0 +1,70 @@
+.homeMain {
+    display: flex;
+}
+
+.ItemscontainerComp {
+    margin-left: 16%;
+}
+
+.nav {
+    position: fixed;
+}
+
+.main {
+    width: 40%;
+    text-align: center;
+    margin: auto;
+    margin-top: 4%;
+}
+
+.showPassword {
+    text-align: left;
+    margin-left: 6.5rem;
+    margin-top: 1rem;
+}
+
+.signupback {
+    margin-top: 2%;
+    margin-left: 2%;
+    cursor: pointer;
+}
+
+.filter {
+    width: 12%;
+    margin-top: 10%;
+    margin-left: 1%;
+    background-image: linear-gradient(to top, #e6e9f0 0%, #eef1f5 100%);
+    border-radius: 10px;
+    position: fixed;
+}
+
+.categoryList {
+    margin-left: 7%;
+    display: flex;
+    flex-direction: column;
+}
+
+.filterTitle {
+    text-align: center;
+}
+
+.link {
+    text-decoration: none !important;
+    color: black;
+}
+
+/*  Error Page CSS */
+.errorpage {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    font-family: Arial, sans-serif;
+    background-color: #f1f1f1;
+    color: #333;
+}
+
+.cartQtyBtn{
+    cursor: pointer;
+}

@@ -1,0 +1,19 @@
+.merged-table {
+    border-collapse: collapse;
+    width: 70%;
+    margin: auto;
+    margin-top: 3rem;
+  }
+  
+  .merged-table th,
+  .merged-table td {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: center;
+  }
+  
+  .merged-table th {
+    background-color: #f2f2f2;
+  }
+  
+  
